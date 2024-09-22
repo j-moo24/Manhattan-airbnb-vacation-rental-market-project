@@ -13,11 +13,7 @@ A complete introduction can be found on the "Start Here" sheet. Included is an e
 "Data_Dictionary" contains relevant information of the data fields.
 The majority of data cleaning involved eliminating any headers that would not be useful for the project's goals. Every specific heading that was deleted can be found on the change log. The "Host_Neighborhood" header conatained misspellings of neighborhoods. I corrected these using the Proper function. 
 The "occupancy" header contained the values true or false. Using the find and replace function, I replaced true with zeros and false with ones. The graphs were created using the pivot table function. 
-Included below are screenshots of the code formula
 
-file:///Users/joshmoore/Desktop/Screenshot%202024-09-22%20at%202.24.59%E2%80%AFPM.pdf
-
-file:///Users/joshmoore/Desktop/Screenshot%202024-09-22%20at%202.35.21%E2%80%AFPM.png 
 
 3. Results 
   The Lower East Side was the most popular neighborhood in the airbnb vacation rental market. The most popular property size was a one-bedroom rental. The same was true for the Lower East Side, as the 
