@@ -14,7 +14,6 @@ A complete introduction can be found on the "Start Here" sheet. Included is an e
 The majority of data cleaning involved eliminating any headers that would not be useful for the project's goals. Every specific heading that was deleted can be found on the change log. The "Host_Neighborhood" header conatained misspellings of neighborhoods. I corrected these using the Proper function. 
 The "occupancy" header contained the values true or false. Using the find and replace function, I replaced true with zeros and false with ones. The graphs were created using the pivot table function. 
 
-
 3. Results 
   The Lower East Side was the most popular neighborhood in the airbnb vacation rental market. The most popular property size was a one-bedroom rental. The same was true for the Lower East Side, as the 
 most popular property size in that particular neighborhood was one-bedroom. Saturday and Friday were the most popular days of the week by occupancy. Despite my predictions, Instant booking 
